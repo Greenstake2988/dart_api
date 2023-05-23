@@ -1,0 +1,7 @@
+name: api_dart
+
+dependencies:
+  shelf: ^1.2.0
+  shelf_router: ^1.1.4 
+environment:
+  sdk: '^3.0.0'
